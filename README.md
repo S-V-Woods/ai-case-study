@@ -34,6 +34,7 @@
   * NVIDIA is a software and hardware compnay that ranges from semiconductors, APIs, AI, and high-performance computing.
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+   * Semiconductors were able to double their performance every two years but that was coming to an end so chip developers had to change tactics, they had to develop 3D transistor structures. That way they were able to continue to grow and the innovations attached to them would not stagnate. When even that became hard to manage, companies made ultra-specific chips for specific tasks. Machine learning and AI created a market for semiconductor chips that could handle the workload.
 
 * What are the other major companies in this field?
 
